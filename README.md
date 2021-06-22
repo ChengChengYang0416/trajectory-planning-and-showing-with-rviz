@@ -4,6 +4,7 @@
 Build the package
 ```
 cd ~/your workspace
+catkin_make
 source /devel/setup.bash
 ```
 
